@@ -5,3 +5,7 @@
 ## usage
 
 downgit [url]
+
+## dependency
+
+jq https://github.com/stedolan/jq
